@@ -46,6 +46,21 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- 这张动图由 .github/workflows/snake.yml 每天自动生成到 output 分支，
+     深色/浅色模式各一张，勿直接改这里的链接 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaoTang9878/HaoTang9878/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaoTang9878/HaoTang9878/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/HaoTang9878/HaoTang9878/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
 ## 🔗 Connect with Me
 
 <div align="center">
