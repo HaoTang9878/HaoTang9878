@@ -1,6 +1,6 @@
-# 贪吃蛇动画生成器：读取贡献格子图，生成 SVG 动画到 output 分支
-# 首次由 push 触发，之后每天 UTC 00:00（北京时间早上 8 点）自动刷新
-name: Generate Snake
+# 每天自动生成：1) 贪吃蛇动画  2) 自托管统计卡（stats / top langs / trophies）
+# 输出到 output 分支，README 引用 raw 文件。北京时间早上 8 点刷新。
+name: Generate Snake & Stats
 
 on:
   schedule:
@@ -17,6 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats cards (stats / top-langs / trophies)
+        run: node .github/scripts/gen-cards.mjs dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:

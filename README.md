@@ -37,12 +37,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HaoTang9878&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoTang9878&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs"/>
+<!-- 三张卡由 .github/workflows/snake.yml 里的 gen-cards.mjs 每天自动生成（output 分支）。
+     原先用的 github-readme-stats / github-profile-trophy 公共服务长期 502，已换成自托管版 -->
 
+<img height="180" src="https://raw.githubusercontent.com/HaoTang9878/HaoTang9878/output/stats-card.svg" alt="stats"/>
+<img height="180" src="https://raw.githubusercontent.com/HaoTang9878/HaoTang9878/output/top-langs.svg" alt="top langs"/>
+
+<img width="70%" src="https://raw.githubusercontent.com/HaoTang9878/HaoTang9878/output/trophies.svg" alt="trophies"/>
+
+<!-- streak 卡来自 streak-stats.demolab.com，服务稳定，保持不变 -->
 <img width="70%" src="https://streak-stats.demolab.com?user=HaoTang9878&theme=radical&hide_border=true&locale=en" alt="streak"/>
-
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=HaoTang9878&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
 
 </div>
 
