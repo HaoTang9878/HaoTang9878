@@ -1,4 +1,4 @@
-<!-- 简约版主页：一句话介绍 + 小人访客计数（Moe-Counter）+ 技能图标 + 贪吃蛇。
+<!-- 简约版主页：一句话介绍 + capoo 小猫访客计数（Moe-Counter）+ 技能图标 + 贪吃蛇。
      贪吃蛇由 .github/workflows/snake.yml 每天早上 8 点（北京时间）自动生成到 output 分支。
      旧版的大横幅/打字动画/统计卡/奖杯墙在 git 历史里，想要随时能恢复。 -->
 
@@ -12,8 +12,8 @@ I'm **Hao Tang** — leading the **OpenAlpha** team, building AI-powered quant t
 <div align="center">
 
 <!-- 访客计数：Moe-Counter（开源项目 journey-ad/Moe-Counter），每个访客 +1，
-     每一位数字渲染成一个小人。darkmode=auto 跟随 GitHub 深浅色 -->
-<img src="https://count.getloli.com/@HaoTang9878?name=HaoTang9878&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitors"/>
+     每一位数字渲染成一只 capoo 小猫。darkmode=auto 跟随 GitHub 深浅色 -->
+<img src="https://count.getloli.com/@HaoTang9878?name=HaoTang9878&theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitors"/>
 
 </div>
 
