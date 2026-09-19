@@ -21,7 +21,7 @@ I'm **Hao Tang** — leading the **OpenAlpha** team, building AI-powered quant t
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,py,nodejs,express,fastapi,react,vite,postgres,mysql,redis,sqlite,docker,kubernetes,nginx,git,github,githubactions,bash,linux,vscode,pandas,numpy,pytorch&perline=12)](https://github.com/HaoTang9878?tab=repositories)
+[![Skills](https://skillicons.dev/icons?i=ts,js,py,nodejs,express,fastapi,react,vite,postgres,mysql,redis,sqlite,docker,kubernetes,nginx,git,github,githubactions,bash,linux,vscode,vitest,scikitlearn&perline=12)](https://github.com/HaoTang9878?tab=repositories)
 
 </div>
 
