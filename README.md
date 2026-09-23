@@ -12,8 +12,10 @@ I'm **Hao Tang** — leading the **OpenAlpha** team, building AI-powered quant t
 <div align="center">
 
 <!-- 访客计数：Moe-Counter（开源项目 journey-ad/Moe-Counter），每个访客 +1，
-     每一位数字渲染成一只 capoo 小猫。darkmode=auto 跟随 GitHub 深浅色 -->
-<img src="https://count.getloli.com/@HaoTang9878?name=HaoTang9878&theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitors"/>
+     capoo-2 主题 = 举数字牌的小猫（capoo-1 只有表情不显示数字，别用）。
+     padding=3 = 数字补零到 3 位，别抄 falcon0709 的 7（他是几千访客才需要）。
+     darkmode=auto 跟随 GitHub 深浅色 -->
+<img src="https://count.getloli.com/@HaoTang9878?name=HaoTang9878&theme=capoo-2&padding=3&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitors"/>
 
 </div>
 
